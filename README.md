@@ -9,3 +9,7 @@ wenn du an einem Skript arbeiten möchtest.
 
 Beachte auch die Informationen zur Mitarbeit in 
 [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Skriptensammlung
+
+- [Laborstatus](labor-status/README.md) - Prüft, ob das Labor in Bochum geöffnet ist.
