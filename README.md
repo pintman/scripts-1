@@ -12,4 +12,4 @@ Beachte auch die Informationen zur Mitarbeit in
 
 ## Skriptensammlung
 
-- [Laborstatus](labor-status/README.md) - Prüft, ob das Labor in Bochum geöffnet ist.
+- [Laborstatus](labor_status/README.md) - Prüft, ob das Labor in Bochum geöffnet ist.
