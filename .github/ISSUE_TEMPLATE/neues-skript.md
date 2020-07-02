@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Was soll das Skript tun?**
-
+SKRIPT BESCHREIBEN
 
 ** Dokumentation **
 Erstelle eine README.md, die das Skript beschreibt. Hier können auch Aufrufparameter, die Installation und Abhängigkeiten beschrieben werden.
